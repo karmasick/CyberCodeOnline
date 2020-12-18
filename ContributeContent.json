@@ -38,7 +38,10 @@
         "waiting for Cyberpunk 2077 release",
         "watching V-Tubers",
         "updating OS",
-        "updating my onlyfans"
+        "updating my onlyfans",
+        "playing Minecraft",
+        "chatting with strangers", 
+        "jogging", 
     ],
     "badGuys": [
         "outcast",
@@ -64,7 +67,10 @@
         "street shark",
         "predator",
         "billionaire",
-        "gopnik"
+        "gopnik",
+        "ruffian",
+        "hoodlum", 
+        "delinquent"
     ],
     "goodGuys": [
         "beggar",
@@ -99,7 +105,10 @@
         "Boris",
         "cheems",
         "trauma technician",
-        "nurse"
+        "nurse",
+        "doctor",
+        "engineer",
+        "e-girl"
     ],
     "bosses": [
         "Cybernetic Freak",
@@ -143,7 +152,9 @@
         "Duke Nukem",
         "BeastMaster64",
         "Rasputin",
-        "D.O.G.E."
+        "D.O.G.E.",
+        "Table",
+        "Snas"
     ],
     "greetings": [
         "hey",
@@ -161,7 +172,10 @@
         "hey you",
         "hiya",
         "howdy partner",
-        "hemlo"
+        "hemlo",
+        "hey man",
+        "yo",
+        "pst. . ."
     ],
     "needHelp": [
         "could you help?",
@@ -179,7 +193,11 @@
         "do something for me would ya?",
         "need a little help over here!",
         "got a sec?",
-        "Want some?"
+        "Want some?",
+        "are you free?",
+        "care to lend a hand?",
+        "please help me",
+        "help a guy out"
     ],
     "filler": [
         "uhmm...",
@@ -198,7 +216,10 @@
         "*farts*",
         "y'know...",
         "*sneeze*",
-        "*sips*"
+        "*sips*",
+        "bah...",
+        "ugh..."
+        "*blink*"
     ],
     "buildingPrefix": [
         "the",
@@ -231,7 +252,14 @@
         "lit-up",
         "neon colored",
         "smelly",
-        "trashed"
+        "trashed",
+        "ancient",
+        "charming", 
+        "weatherbeaten",
+        "quaint", 
+        "shabby", 
+        "decrepit"
+        
     ],
     "buildingTypes": [
         "building",
@@ -294,7 +322,13 @@
         "parking lot",
         "repair shop",
         "train station",
-        "gas station"
+        "gas station",
+        "subway station",
+        "aparment", 
+        "hospital", 
+        "brothel",
+        "courtyard",
+        "pavilion"
     ],
     "helmet": [
         "helmet",
@@ -335,7 +369,14 @@
         "tricorne",
         "ascot cap",
         "turban",
-        "patrol cap"
+        "patrol cap",
+        "bush hat",
+        "panama hat",
+        "fisherman hat", 
+        "wizard hat",
+        "cat ears",
+        "paper bag"
+        
     ],
     "upperArmor": [
         "shirt",
@@ -383,7 +424,13 @@
         "track jacket",
         "tube top",
         "uniform jacket",
-        "winter jacket"
+        "winter jacket",
+        "turtleneck",
+        "jumper",
+        "smock",
+        "crop top",
+        "overalls",
+        "button-down shirt"
     ],
     "lowerArmor": [
         "pants",
@@ -418,7 +465,13 @@
         "pleated skirt",
         "slacks",
         "hotpants",
-        "dresspants"
+        "dresspants",
+        "leggings",
+        "baggy pants",
+        "slacks",
+        "layered skirt",
+        "bubble skirt"
+        
     ],
     "boots": [
         "shoes",
@@ -447,5 +500,11 @@
         "moccasins",
         "riding boots",
         "sneakers"
+        "crocs", 
+        "sketchers",
+        "ballet shoes",
+        "cowboy boots",
+        "slippers"
+        
     ]
 }
